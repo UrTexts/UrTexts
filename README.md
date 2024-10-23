@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UrTexts
-- 👀 I’m interested in gae hacking and development
+- 👀 I’m interested in game hacking and development
 - - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on any entry level project <3
 - 📫 How to reach me... my discord is yoyobeats 
