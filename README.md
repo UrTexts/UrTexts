@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @UrTexts<br>👀 I’m interested in hacking and development<br>🌱 I’m currently learning python<br>📫 How to reach me... my discord is yoyobeats
+👋 Hi, I’m @UrTexts<br>👀 I’m interested in hacking and development<br>🌱 I’m currently learning python and rust<br>📫 How to reach me... my discord is yoyobeats
 
 
 ## 🌐 Socials:
