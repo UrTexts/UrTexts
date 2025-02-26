@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @UrTexts<br>👀. I’m interested in Cybersecurity and development<br>🌱 I’m currently learning python, C, and rust<br>
+👋 Hi, I’m @UrTexts<br>👀. I’m interested in Cybersecurity and development<br>🌱 I’m currently learning python, C, and rust.<br>
 
 
 ## 🌐 Socials:
